@@ -1,0 +1,439 @@
+{
+  "kill_num_zombies": {
+		"id": "kill_num_zombies",
+		"goals": {
+			"kill_num_zombies_56": {
+				"amount": 56,
+				"id": "kill_num_zombies_56",
+				"name": "The Pitcairn Islands",
+				"money": "200"
+			},
+			"kill_num_zombies_840": {
+				"amount": 840,
+				"id": "kill_num_zombies_840",
+				"name": "Vatican City",
+				"money": "400"
+			},
+			"kill_num_zombies_2700": {
+				"amount": 2700,
+				"id": "kill_num_zombies_2700",
+				"name": "Svalbard Island",
+				"money": "600"
+			},
+			"kill_num_zombies_13750": {
+				"amount": 13750,
+				"id": "kill_num_zombies_13750",
+				"name": "Nauru",
+				"money": "800"
+			},
+			"kill_num_zombies_27500": {
+				"amount": 27500,
+				"id": "kill_num_zombies_27500",
+				"name": "Grand Cayman",
+				"money": "1000"
+			},
+			"kill_num_zombies_37500": {
+				"amount": 37500,
+				"id": "kill_num_zombies_37500",
+				"name": "The Principality of Liechtenstein",
+				"money": "1500"
+			},
+			"kill_num_zombies_47000": {
+				"amount": 47000,
+				"id": "kill_num_zombies_47000",
+				"name": "Turks And Caicos",
+				"money": "2000"
+			},
+			"kill_num_zombies_55000": {
+				"amount": 55000,
+				"id": "kill_num_zombies_55000",
+				"name": "American Samoa",
+				"money": "2500"
+			},
+			"kill_num_zombies_80000": {
+				"amount": 80000,
+				"id": "kill_num_zombies_80000",
+				"name": "The Island of Antigua",
+				"money": "3000"
+			},
+			"kill_num_zombies_110000": {
+				"amount": 110000,
+				"id": "kill_num_zombies_110000",
+				"name": "The Federated States of Micronesia",
+				"money": "4000"
+			},
+			"kill_num_zombies_160000": {
+				"amount": 160000,
+				"id": "kill_num_zombies_160000",
+				"name": "Guam",
+				"money": "5000"
+			},
+			"kill_num_zombies_230000": {
+				"amount": 230000,
+				"id": "kill_num_zombies_230000",
+				"name": "French Guiana",
+				"money": "7500"
+			},
+			"kill_num_zombies_325000": {
+				"amount": 325000,
+				"id": "kill_num_zombies_325000",
+				"name": "Iceland",
+				"money": "10000"
+			},
+			"kill_num_zombies_395000": {
+				"amount": 395000,
+				"id": "kill_num_zombies_395000",
+				"name": "Wellington, New Zealand",
+				"money": "12500"
+			},
+			"kill_num_zombies_480000": {
+				"amount": 480000,
+				"id": "kill_num_zombies_480000",
+				"name": "Newfoundland",
+				"money": "15000"
+			},
+			"kill_num_zombies_535000": {
+				"amount": 535000,
+				"id": "kill_num_zombies_535000",
+				"name": "The Grand Duchy of Luxembourg",
+				"money": "17500"
+			},
+			"kill_num_zombies_575000": {
+				"amount": 575000,
+				"id": "kill_num_zombies_575000",
+				"name": "Wyoming",
+				"money": "20000"
+			},
+			"kill_num_zombies_595000": {
+				"amount": 595000,
+				"id": "kill_num_zombies_595000",
+				"name": "Macau",
+				"money": "25000"
+			},
+			"kill_num_zombies_620000": {
+				"amount": 620000,
+				"id": "kill_num_zombies_620000",
+				"name": "Montenegro",
+				"money": "35000"
+			},
+			"kill_num_zombies_765000": {
+				"amount": 765000,
+				"id": "kill_num_zombies_765000",
+				"name": "Quebec City",
+				"money": "60000"
+			},
+			"kill_num_zombies_860000": {
+				"amount": 860000,
+				"id": "kill_num_zombies_860000",
+				"name": "Fiji",
+				"money": "70000"
+			},
+			"kill_num_zombies_955000": {
+				"amount": 955000,
+				"id": "kill_num_zombies_955000",
+				"name": "Honolulu",
+				"money": "80000"
+			},
+			"kill_num_zombies_1050000": {
+				"amount": 1050000,
+				"id": "kill_num_zombies_1050000",
+				"name": "Saskatchewan",
+				"money": "90000"
+			},
+			"kill_num_zombies_1475000": {
+				"amount": 1475000,
+				"id": "kill_num_zombies_1475000",
+				"name": "Kyoto",
+				"money": "100000"
+			},
+			"kill_num_zombies_1650000": {
+				"amount": 1650000,
+				"id": "kill_num_zombies_1650000",
+				"name": "Sardinia",
+				"money": "120000"
+			},
+			"kill_num_zombies_1950000": {
+				"amount": 1950000,
+				"id": "kill_num_zombies_1950000",
+				"name": "Las Vegas",
+				"money": "140000"
+			},
+			"kill_num_zombies_2300000": {
+				"amount": 2300000,
+				"id": "kill_num_zombies_2300000",
+				"name": "La Paz",
+				"money": "160000"
+			},
+			"kill_num_zombies_2700000": {
+				"amount": 2700000,
+				"id": "kill_num_zombies_2700000",
+				"name": "Jamaica",
+				"money": "180000"
+			},
+			"kill_num_zombies_3025000": {
+				"amount": 3025000,
+				"id": "kill_num_zombies_3025000",
+				"name": "Armenia",
+				"money": "200000"
+			},
+			"kill_num_zombies_3250000": {
+				"amount": 3250000,
+				"id": "kill_num_zombies_3250000",
+				"name": "Uruguay",
+				"money": "225000"
+			},
+			"kill_num_zombies_3670000": {
+				"amount": 3670000,
+				"id": "kill_num_zombies_3670000",
+				"name": "Puerto Rico",
+				"money": "250000"
+			},
+			"kill_num_zombies_4000000": {
+				"amount": 4000000,
+				"id": "kill_num_zombies_4000000",
+				"name": "Tunis",
+				"money": "275000"
+			},
+			"kill_num_zombies_4295000": {
+				"amount": 4295000,
+				"id": "kill_num_zombies_4295000",
+				"name": "Liberia",
+				"money": "300000"
+			},
+			"kill_num_zombies_4900000": {
+				"amount": 4900000,
+				"id": "kill_num_zombies_4900000",
+				"name": "St. Petersburg",
+				"money": "350000"
+			},
+			"kill_num_zombies_5600000": {
+				"amount": 5600000,
+				"id": "kill_num_zombies_5600000",
+				"name": "Toronto",
+				"money": "400000"
+			},
+			"kill_num_zombies_7100000": {
+				"amount": 7100000,
+				"id": "kill_num_zombies_5600000",
+				"name": "Hong Kong",
+				"money": "450000"
+			},
+			"kill_num_zombies_7900000": {
+				"amount": 7900000,
+				"id": "kill_num_zombies_5600000",
+				"name": "Bogota",
+				"money": "500000"
+			},
+			"kill_num_zombies_10300000": {
+				"amount": 10300000,
+				"id": "kill_num_zombies_10300000",
+				"name": "Shenzhen",
+				"money": "600000"
+			},
+			"kill_num_zombies_11900000": {
+				"amount": 11900000,
+				"id": "kill_num_zombies_11900000",
+				"name": "Rio de Janeiro",
+				"money": "700000"
+			},
+			"kill_num_zombies_13000000": {
+				"amount": 13000000,
+				"id": "kill_num_zombies_13000000",
+				"name": "Los Angeles",
+				"money": "800000"
+			},
+			"kill_num_zombies_19500000": {
+				"amount": 19500000,
+				"id": "kill_num_zombies_19500000",
+				"name": "New York City",
+				"money": "1000000"
+			},
+			"kill_num_zombies_22500000": {
+				"amount": 22500000,
+				"id": "kill_num_zombies_22500000",
+				"name": "Seoul",
+				"money": "1250000"
+			},
+			"kill_num_zombies_26500000": {
+				"amount": 26500000,
+				"id": "kill_num_zombies_26500000",
+				"name": "Texas",
+				"money": "1500000"
+			},
+			"kill_num_zombies_32500000": {
+				"amount": 32500000,
+				"id": "kill_num_zombies_32500000",
+				"name": "Tokyo",
+				"money": "1750000"
+			},
+			"kill_num_zombies_35700000": {
+				"amount": 35700000,
+				"id": "kill_num_zombies_35700000",
+				"name": "Oceania",
+				"money": "2000000"
+			},
+			"kill_num_zombies_38500000": {
+				"amount": 38500000,
+				"id": "kill_num_zombies_38500000",
+				"name": "California",
+				"money": "2500000"
+			},
+			"kill_num_zombies_41750000": {
+				"amount": 41750000,
+				"id": "kill_num_zombies_41750000",
+				"name": "California",
+				"money": "3000000"
+			},
+			"kill_num_zombies_47000000": {
+				"amount": 47000000,
+				"id": "kill_num_zombies_47000000",
+				"name": "Colombia",
+				"money": "4000000"
+			},
+			"kill_num_zombies_66000000": {
+				"amount": 66000000,
+				"id": "kill_num_zombies_66000000",
+				"name": "Thailand",
+				"money": "5000000"
+			},
+			"kill_num_zombies_80000000": {
+				"amount": 80000000,
+				"id": "kill_num_zombies_80000000",
+				"name": "Thailand",
+				"money": "6000000"
+			},
+			"kill_num_zombies_84000000": {
+				"amount": 84000000,
+				"id": "kill_num_zombies_84000000",
+				"name": "Egypt",
+				"money": "7000000"
+			},
+			"kill_num_zombies_105000000": {
+				"amount": 105000000,
+				"id": "kill_num_zombies_105000000",
+				"name": "Guangdong Province",
+				"money": "8000000"
+			},
+			"kill_num_zombies_105000000": {
+				"amount": 105000000,
+				"id": "kill_num_zombies_105000000",
+				"name": "Mexico",
+				"money": "9000000"
+			},
+			"kill_num_zombies_120000000": {
+				"amount": 120000000,
+				"id": "kill_num_zombies_120000000",
+				"name": "Russia",
+				"money": "10000000"
+			},
+			"kill_num_zombies_144000000": {
+				"amount": 144000000,
+				"id": "kill_num_zombies_144000000",
+				"name": "Pakistan",
+				"money": "12500000"
+			},
+			"kill_num_zombies_185000000": {
+				"amount": 185000000,
+				"id": "kill_num_zombies_185000000",
+				"name": "Pakistan",
+				"money": "15000000"
+			},
+			"kill_num_zombies_200000000": {
+				"amount": 200000000,
+				"id": "kill_num_zombies_200000000",
+				"name": "Brazil",
+				"money": "17500000"
+			},
+			"kill_num_zombies_240000000": {
+				"amount": 240000000,
+				"id": "kill_num_zombies_240000000",
+				"name": "Indonesia",
+				"money": "20000000"
+			},
+			"kill_num_zombies_297500000": {
+				"amount": 297500000,
+				"id": "kill_num_zombies_297500000",
+				"name": "The Former Soviet Republics",
+				"money": "22500000"
+			},
+			"kill_num_zombies_320000000": {
+				"amount": 320000000,
+				"id": "kill_num_zombies_320000000",
+				"name": "The USA",
+				"money": "25000000"
+			},
+			"kill_num_zombies_390000000": {
+				"amount": 390000000,
+				"id": "kill_num_zombies_390000000",
+				"name": "South America",
+				"money": "27500000"
+			},
+			"kill_num_zombies_530000000": {
+				"amount": 530000000,
+				"id": "kill_num_zombies_530000000",
+				"name": "North America",
+				"money": "30000000"
+			},
+			"kill_num_zombies_610000000": {
+				"amount": 610000000,
+				"id": "kill_num_zombies_610000000",
+				"name": "Southeast Asia",
+				"money": "35000000"
+			},
+			"kill_num_zombies_740000000": {
+				"amount": 740000000,
+				"id": "kill_num_zombies_740000000",
+				"name": "Europe",
+				"money": "40000000"
+			},
+			"kill_num_zombies_1100000000": {
+				"amount": 1100000000,
+				"id": "kill_num_zombies_1100000000",
+				"name": "Africa",
+				"money": "45000000"
+			},
+			"kill_num_zombies_1250000000": {
+				"amount": 1250000000,
+				"id": "kill_num_zombies_1250000000",
+				"name": "India",
+				"money": "50000000"
+			},
+			"kill_num_zombies_1350000000": {
+				"amount": 1350000000,
+				"id": "kill_num_zombies_1350000000",
+				"name": "China",
+				"money": "55000000"
+			},
+			"kill_num_zombies_291": {
+				"amount": 291,
+				"id": "kill_num_zombies_291",
+				"name": "Beaver Creek, Montana"
+			},
+			"kill_num_zombies_1": {
+				"amount": 1,
+				"id": "kill_num_zombies_1",
+				"name": "Buford, Wyoming"
+			},
+			"kill_num_zombies_400": {
+				"amount": 400,
+				"id": "kill_num_zombies_400",
+				"name": "Bird City, Kansas"
+			},
+			"kill_num_zombies_975": {
+				"amount": 975,
+				"id": "kill_num_zombies_975",
+				"name": "Double Springs, Alabama"
+			},
+			"kill_num_zombies_1750": {
+				"amount": 1750,
+				"id": "kill_num_zombies_1750",
+				"name": "Kettleman City, California"
+			},
+			"kill_num_zombies_1200": {
+				"amount": 1200,
+				"id": "kill_num_zombies_1200",
+				"name": "Mount Holly, Vermont"
+			}
+		}
+	}
+}

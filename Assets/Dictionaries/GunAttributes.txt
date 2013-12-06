@@ -1,0 +1,34 @@
+Gun:
+- Image
+- ProjectileType
+- Fire Rate
+- Accuracy
+- Reload Speed
+- Magasine Size
+- Range
+- Damage
+- Scrap Value
+- Attributes
+
+
+ProjectileType:
+- Image
+- Speed
+- Direction
+
+
+Attributes:
+- Freeze: Duration, Effectiveness
+- Burn: Duration, Effectiveness
+- Spread: Radius, Pellets
+- Critical Hit: Chance, Damage
+
+
+Gun generation:
+1. Roll a gun type
+2. Get the Class
+3. Roll Properties
+4. Roll Projectile Type
+5. Roll Attribute Chance
+5.1. Roll Attribute
+6. Define Scrap Value based on Roll

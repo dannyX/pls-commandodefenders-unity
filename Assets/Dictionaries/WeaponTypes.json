@@ -1,0 +1,634 @@
+{
+	"SubMachineGun":{
+		"Classes":{
+			"1": {
+				"ClassId": "1",
+				"Level": {
+					"min": 1,
+					"max": 5
+				},
+				"Image": "smg1",
+				"PropertyDistribution":{
+					"FireRate": {
+						"id": "FireRate",
+						"min": 0.1,
+						"max": 0.05
+					},
+					"Accuracy": {
+						"id": "Accuracy",
+						"min": 30.0,
+						"max": 20.0
+					},
+					"ReloadSpeed": {
+						"id": "ReloadSpeed",
+						"min": 2.0,
+						"max": 1.5
+					},
+					"MagazineSize": {
+						"id": "MagazineSize",
+						"min": 100,
+						"max": 160
+					},
+					"Range": {
+						"id": "Range",
+						"min": 1.0,
+						"max": 1.5
+					},
+					"Damage": {
+						"id": "Damage",
+						"min": 1,
+						"max": 2
+					}
+				},
+				"ProjectileType":{
+					"Forward": {
+						"chance": 95.0,
+						"id": "Forward"
+					},
+					"Spiral": {
+						"chance": 4.9,
+						"id": "Spiral"
+					},
+					"Homing": {
+						"chance": 0.1,
+						"id": "Homing"
+					}
+				},
+				"AttributeChance": 5,
+				"Attributes": {
+					"Freeze": {
+						"id": "Freeze",
+						"RollChance": 99.9,
+						"Chance": {
+							"min": 1,
+							"max": 5
+						},
+						"Duration": {
+							"min": 0.3,
+							"max": 0.8
+						},
+						"Effectiveness": {
+							"min": 0.9,
+							"max": 0.7
+						}
+					},
+					"Spread": {
+						"id": "Spread",
+						"RollChance":0.1,
+						"Radius": {
+							"min": 120.0,
+							"max": 30.0
+						}
+					}
+				}
+			},
+			"2": {
+				"ClassId": "2",
+				"Level": {
+					"min": 6,
+					"max": 10
+				},
+				"Image": "smg2",
+				"PropertyDistribution":{
+					"FireRate": {
+						"id": "FireRate",
+						"min": 0.09,
+						"max": 0.045
+					},
+					"Accuracy": {
+						"id": "Accuracy",
+						"min": 20.0,
+						"max": 15.0
+					},
+					"ReloadSpeed": {
+						"id": "ReloadSpeed",
+						"min": 1.5,
+						"max": 1.0
+					},
+					"MagazineSize": {
+						"id": "MagazineSize",
+						"min": 125,
+						"max": 200
+					},
+					"Range": {
+						"id": "Range",
+						"min": 1.2,
+						"max": 1.7
+					},
+					"Damage": {
+						"id": "Damage",
+						"min": 1,
+						"max": 2
+					}
+				},
+				"ProjectileType":{
+					"Forward": {
+						"chance": 95.0,
+						"id": "Forward"
+					},
+					"Spiral": {
+						"chance": 4.9,
+						"id": "Spiral"
+					},
+					"Homing": {
+						"chance": 0.1,
+						"id": "Homing"
+					}
+				},
+				"AttributeChance": 5.0,
+				"Attributes": {
+					"Freeze": {
+						"id": "Freeze",
+						"RollChance": 99.9,
+						"Chance": {
+							"min": 1,
+							"max": 5
+						},
+						"Duration": {
+							"min": 0.3,
+							"max": 0.8
+						},
+						"Effectiveness": {
+							"min": 0.1,
+							"max": 0.3
+						}
+					},
+					"Spread": {
+						"id": "Spread",
+						"RollChance": 0.1,
+						"Radius": {
+							"min": 120.0,
+							"max": 30.0
+						}
+					}
+				}
+			},
+			"3": {
+				"ClassId": "3",
+				"Level": {
+					"min": 11,
+					"max": 15
+				},
+				"Image": "smg3",
+				"PropertyDistribution":{
+					"FireRate": {
+						"id": "FireRate",
+						"min": 0.08,
+						"max": 0.040
+					},
+					"Accuracy": {
+						"id": "Accuracy",
+						"min": 15.0,
+						"max": 10.0
+					},
+					"ReloadSpeed": {
+						"id": "ReloadSpeed",
+						"min": 1.3,
+						"max": 0.8
+					},
+					"MagazineSize": {
+						"id": "MagazineSize",
+						"min": 180,
+						"max": 250
+					},
+					"Range": {
+						"id": "Range",
+						"min": 1.3,
+						"max": 1.8
+					},
+					"Damage": {
+						"id": "Damage",
+						"min": 1,
+						"max": 3
+					}
+				},
+				"ProjectileType":{
+					"Forward": {
+						"chance": 95.0,
+						"id": "Forward"
+					},
+					"Spiral": {
+						"chance": 4.9,
+						"id": "Spiral"
+					},
+					"Homing": {
+						"chance": 0.1,
+						"id": "Homing"
+					}
+				},
+				"AttributeChance": 5.0,
+				"Attributes": {
+					"Freeze": {
+						"id": "Freeze",
+						"RollChance": 99.9,
+						"Chance": {
+							"min": 1,
+							"max": 5
+						},
+						"Duration": {
+							"min": 0.3,
+							"max": 0.8
+						},
+						"Effectiveness": {
+							"min": 0.1,
+							"max": 0.3
+						}
+					},
+					"Spread": {
+						"id": "Spread",
+						"RollChance": 0.1,
+						"Radius": {
+							"min": 120.0,
+							"max": 30.0
+						}
+					}
+				}
+			},
+			"4": {
+				"ClassId": "4",
+				"Level": {
+					"min": 16,
+					"max": 20
+				},
+				"Image": "smg4",
+				"PropertyDistribution":{
+					"FireRate": {
+						"id": "FireRate",
+						"min": 0.07,
+						"max": 0.035
+					},
+					"Accuracy": {
+						"id": "Accuracy",
+						"min": 12.5,
+						"max": 7.5
+					},
+					"ReloadSpeed": {
+						"id": "ReloadSpeed",
+						"min": 1.2,
+						"max": 0.75
+					},
+					"MagazineSize": {
+						"id": "MagazineSize",
+						"min": 220,
+						"max": 300
+					},
+					"Range": {
+						"id": "Range",
+						"min": 1.4,
+						"max": 1.9
+					},
+					"Damage": {
+						"id": "Damage",
+						"min": 2,
+						"max": 3
+					}
+				},
+				"ProjectileType":{
+					"Forward": {
+						"chance": 95.0,
+						"id": "Forward"
+					},
+					"Spiral": {
+						"chance": 4.9,
+						"id": "Spiral"
+					},
+					"Homing": {
+						"chance": 0.1,
+						"id": "Homing"
+					}
+				},
+				"AttributeChance": 5.0,
+				"Attributes": {
+					"Freeze": {
+						"id": "Freeze",
+						"RollChance": 99.9,
+						"Chance": {
+							"min": 1,
+							"max": 5
+						},
+						"Duration": {
+							"min": 0.3,
+							"max": 0.8
+						},
+						"Effectiveness": {
+							"min": 0.1,
+							"max": 0.3
+						}
+					},
+					"Spread": {
+						"id": "Spread",
+						"RollChance": 0.1,
+						"Radius": {
+							"min": 120.0,
+							"max": 30.0
+						}
+					}
+				}
+			},
+			"5": {
+				"ClassId": "5",
+				"Level": {
+					"min": 21,
+					"max": 25
+				},
+				"Image": "smg5",
+				"PropertyDistribution":{
+					"FireRate": {
+						"id": "FireRate",
+						"min": 0.06,
+						"max": 0.03
+					},
+					"Accuracy": {
+						"id": "Accuracy",
+						"min": 10.0,
+						"max": 5.0
+					},
+					"ReloadSpeed": {
+						"id": "ReloadSpeed",
+						"min": 1.1,
+						"max": 0.7
+					},
+					"MagazineSize": {
+						"id": "MagazineSize",
+						"min": 250,
+						"max": 350
+					},
+					"Range": {
+						"id": "Range",
+						"min": 1.5,
+						"max": 2.0
+					},
+					"Damage": {
+						"id": "Damage",
+						"min": 2,
+						"max": 4
+					}
+				},
+				"ProjectileType":{
+					"Forward": {
+						"chance": 95.0,
+						"id": "Forward"
+					},
+					"Spiral": {
+						"chance": 4.9,
+						"id": "Spiral"
+					},
+					"Homing": {
+						"chance": 0.1,
+						"id": "Homing"
+					}
+				},
+				"AttributeChance": 5.0,
+				"Attributes": {
+					"Freeze": {
+						"id": "Freeze",
+						"RollChance": 99.9,
+						"Chance": {
+							"min": 1,
+							"max": 5
+						},
+						"Duration": {
+							"min": 0.3,
+							"max": 0.8
+						},
+						"Effectiveness": {
+							"min": 0.1,
+							"max": 0.3
+						}
+					},
+					"Spread": {
+						"id": "Spread",
+						"RollChance": 0.1,
+						"Radius": {
+							"min": 120.0,
+							"max": 30.0
+						}
+					}
+				}
+			},
+			"6": {
+				"ClassId": "6",
+				"Level": {
+					"min": 25,
+					"max": 100
+				},
+				"Image": "smg5",
+				"PropertyDistribution":{
+					"FireRate": {
+						"id": "FireRate",
+						"min": 0.06,
+						"max": 0.02
+					},
+					"Accuracy": {
+						"id": "Accuracy",
+						"min": 10.0,
+						"max": 1.0
+					},
+					"ReloadSpeed": {
+						"id": "ReloadSpeed",
+						"min": 1.0,
+						"max": 0.4
+					},
+					"MagazineSize": {
+						"id": "MagazineSize",
+						"min": 300,
+						"max": 600
+					},
+					"Range": {
+						"id": "Range",
+						"min": 1.5,
+						"max": 2.5
+					},
+					"Damage": {
+						"id": "Damage",
+						"min": 3,
+						"max": 6
+					}
+				},
+				"ProjectileType":{
+					"Forward": {
+						"chance": 95.0,
+						"id": "Forward"
+					},
+					"Spiral": {
+						"chance": 4.9,
+						"id": "Spiral"
+					},
+					"Homing": {
+						"chance": 0.1,
+						"id": "Homing"
+					}
+				},
+				"AttributeChance": 5.0,
+				"Attributes": {
+					"Freeze": {
+						"id": "Freeze",
+						"RollChance": 99.9,
+						"Chance": {
+							"min": 1,
+							"max": 5
+						},
+						"Duration": {
+							"min": 0.3,
+							"max": 0.8
+						},
+						"Effectiveness": {
+							"min": 0.1,
+							"max": 0.3
+						}
+					},
+					"Spread": {
+						"id": "Spread",
+						"RollChance": 0.1,
+						"Radius": {
+							"min": 120.0,
+							"max": 30.0
+						},
+						"Pellets": {
+							"min": 5,
+							"max": 10
+						}
+					}
+				}
+			}
+		}
+	},
+	"Shotgun":{
+		"Classes":{
+			"1": {
+				"ClassId": "1",
+				"Level": {
+					"min": 1,
+					"max": 5
+				},
+				"Image": "sg1",
+				"PropertyDistribution":{
+					"FireRate": {
+						"id": "FireRate",
+						"min": 1.5,
+						"max": 1.0
+					},
+					"Accuracy": {
+						"id": "Accuracy",
+						"min": 30.0,
+						"max": 20.0
+					},
+					"ReloadSpeed": {
+						"id": "ReloadSpeed",
+						"min": 3.0,
+						"max": 2.0
+					},
+					"MagazineSize": {
+						"id": "MagazineSize",
+						"min": 5,
+						"max": 8
+					},
+					"Range": {
+						"id": "Range",
+						"min": 1.0,
+						"max": 1.5
+					},
+					"Damage": {
+						"id": "Damage",
+						"min": 3,
+						"max": 6
+					}
+				},
+				"ProjectileType":{
+					"Forward": {
+						"chance": 95.0,
+						"id": "Forward"
+					},
+					"Spiral": {
+						"chance": 4.9,
+						"id": "Spiral"
+					},
+					"Homing": {
+						"chance": 0.1,
+						"id": "Homing"
+					}
+				},
+				"AttributeChance": 100,
+				"Attributes": {
+					"Spread": {
+						"id": "Spread",
+						"RollChance":100.0,
+						"Radius": {
+							"min": 120.0,
+							"max": 30.0
+						}
+					}
+				}
+			}
+		}
+	},
+	"Sniper":{
+		"Classes":{
+			"1": {
+				"ClassId": "1",
+				"Level": {
+					"min": 1,
+					"max": 5
+				},
+				"Image": "sg1",
+				"PropertyDistribution":{
+					"FireRate": {
+						"id": "FireRate",
+						"min": 1.5,
+						"max": 1.0
+					},
+					"Accuracy": {
+						"id": "Accuracy",
+						"min": 5.0,
+						"max": 1.0
+					},
+					"ReloadSpeed": {
+						"id": "ReloadSpeed",
+						"min": 3.0,
+						"max": 2.0
+					},
+					"MagazineSize": {
+						"id": "MagazineSize",
+						"min": 5,
+						"max": 8
+					},
+					"Range": {
+						"id": "Range",
+						"min": 2.0,
+						"max": 3.0
+					},
+					"Damage": {
+						"id": "Damage",
+						"min": 10,
+						"max": 15
+					}
+				},
+				"ProjectileType":{
+					"Forward": {
+						"chance": 95.0,
+						"id": "Forward"
+					},
+					"Spiral": {
+						"chance": 4.9,
+						"id": "Spiral"
+					},
+					"Homing": {
+						"chance": 0.1,
+						"id": "Homing"
+					}
+				},
+				"AttributeChance": 10,
+				"Attributes": {
+					"Piercing": {
+						"id": "Pierce",
+						"RollChance":100.0,
+						"Chance": {
+							"min": 10,
+							"max": 20
+						}
+					}
+				}
+			}
+		}
+	}
+}
